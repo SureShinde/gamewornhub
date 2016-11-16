@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+            <!-- Mage_Poll -->
+            <remove name="right.poll" />
+
+            <!--  Paypal ad -->
+            <remove name="paypal.partner.right.logo" />          
+    </default>
+</layout>
